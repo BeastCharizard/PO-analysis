@@ -1,0 +1,69 @@
+<div class="news_block light_grey"><div class="news_title">Gen 6 Tier List</div>
+
+<div id="clauses" style="margin-top: 0px;">
+<font size = "5">Clauses</font><br/><br/>
+<table>
+<tr>
+<td valign="top">
+<div id="info" class="clauses">Sleep Clause, Species Clause, Self KO Clause, Wifi Battle Clause
+</div>
+</td>
+
+</tr>
+</table>
+
+</div>
+<br/>
+<br/>
+
+<div id="tiers-table">
+<table cellpadding="0" cellspacing="0">
+<tr class="header">
+<td width="15%"><font size = "5">Tier</font></td>
+<td><font size = "5">Restrictions</font></td>
+</tr><tr>
+<td valign="top"><font size = "3"><br/>XY Ubers</font></td>
+<td><br/><span style="font-weight:bold">Banned Abilities:</span> Moody<br /><br />
+Arceus, Blaziken, Darkrai, Deoxys-A, Deoxys-N, Deoxys-S, Dialga, Giratina, Giratina-O, Groudon, Ho-Oh, Kyogre, Kyurem-W, Lugia, Mewtwo, Palkia, Rayquaza, Reshiram, Shaymin-S, Xerneas, Yveltal, Zekrom<br/><br/>
+</td>
+</tr><tr>
+<td valign="top"><font size = "3">XY OU</font></td>
+<td><span style="font-weight:bold">Banned Items:</span> Soul Dew, Gengarite, Kangaskhanite, Lucarionite<br />
+In Testing: Deoxys-S<br /><br />
+Aegislash, Alakazam, Azumarill, Bisharp, Blissey, Breloom, Charizard, Clefable, Conkeldurr, Ditto, Dragonite, Espeon, Excadrill, Ferrothorn, Galvantula, Garchomp, Genesect, Gengar, Gliscor, Goodra, Greninja, Gyarados, Heatran, Kangaskhan, Klefki, Landorus, Landorus-T, Latios, Lucario, Mamoswine, Mandibuzz, Mawile, Pinsir, Rotom-W, Scizor, Skarmory, Smeargle, Talonflame, Thundurus, Togekiss, Trevenant, Tyranitar, Venusaur, Volcarona <br /><br />
+</td>
+</tr><tr>
+<td valign="top"><font size = "3">XY UU</font></td>
+<td><span style="font-weight:bold">Banned Pokemon:</span> Kyurem-B<br /><br />
+Everything not classified as OU or Ubers is allowed.<br/><br/>
+</td>
+</tr><tr>
+<td valign="top"><font size = "3">XY LC</font></td>
+<td><italic>A mode of play where all Pokemon are set to Level 5. Only Pokemon that can evolve and are not evolved from anything can participate.</italic><br /><br />
+<span style="font-weight:bold">Banned Pokemon:</span> Scyther, Tangela, Sneasel, Gligar, Yanma<br /><br/>
+<span style="font-weight:bold">Banned Items:</span> Berry Juice<br /><br/>
+<span style="font-weight:bold">Banned Moves:</span> Dragon Rage, Sonic Boom<br /><br />
+<span style="font-weight:bold">Allowed Pokemon:</span> {To be filled in}<br/><br/>
+</td>
+</tr><tr>
+<td valign="top"><font size = "3">XY <br/>Monotype</font></td>
+<td><italic>A mode of play where all Pokemon on a team must share a common type.</italic><br /><br />
+<span style="font-weight:bold">Banned Items:</span> Soul Dew<br/><br/>
+<span style="font-weight:bold">Banned Pokemon:</span> Arceus, Blaziken, Darkrai, Deoxys-A, Deoxys-S, Deoxys-N, Dialga, Giratina, Giratina-O, Groudon, Ho-oh, Kyogre, Kyurem-W, Lugia, Mewtwo, Palkia, Rayquaza, Reshiram, Shaymin-S, Xerneas, Yveltal, Zekrom<br /><br/>
+</td>
+</tr><tr>
+<td valign="top"><font size = "3">Inverted Battle</font></td>
+<td><italic>A mode of play where all Type Effectivenesses are inverted (Ex: Water is weak to Fire)</italic><br /><br />
+<span style="font-weight:bold">Banned Items:</span> Soul Dew, Kangaskhanite, Gengarite<br /><br />
+<span style="font-weight:bold">Banned Pokemon:</span> Arceus, Darkrai, Deoxys-A, Deoxys-N, Dialga, Giratina, Giratina-O, Groudon, Ho-oh, Kyogre, Kyurem-B, Kyurem-W, Lugia, Mewtwo, Palkia, Rayquaza, Reshiram, Shaymin-S, Xerneas, Yveltal, Zekrom<br/><br/>
+</td>
+</tr><tr>
+<td valign="top"><font size = "3">Sky Battle</font></td>
+<td><italic>A mode of play where certain Flying-type and certain Pokemon with the ability Levitate may participate.</italic><br /><br />
+<span style="font-weight:bold">Banned Pokemon:</span> Ho-Oh, Lugia, Rayquaza, Yveltal<br /><br />
+<span style="font-weight:bold">Banned Moves:</span> Body Slam, Bulldoze, Dig, Dive, Earth Power, Earthquake, Electric Terrain, Fire Pledge, Fissure, Flying Press, Frenzy Plant, Geomancy, Grass Knot, Grass Pledge, Grassy Terrain, Gravity, Heavy Slam, Ingrain, Land's Wrath, Magnitude, Mat Block, Misty Terrain, Mud Sport, Muddy Water, Rototiller, Seismic Toss, Slam, Smack Down, Spikes, Stomp, Substitute, Surf, Toxic Spikes, Water Pledge, Water Sport<br /><br />
+<span style="font-weight:bold">Allowed Pokemon:</span> Charizard, Butterfree, Pidgeotto, Pidgeot, Fearow, Zubat, Golbat, Haunter, Koffing, Weezing, Scyther, Gyarados, Aerodactyl, Articuno, Zapdos, Moltres, Dragonite, Ledyba, Ledian, Crobat, Togetic, Xatu, Hopip, Skiploom, Jumpluff, Yanma, Misdreavus, Unown, Gligar, Mantine, Skarmory, Beautifly, Swellow, Wingull, Pelipper, Masquerain, Ninjask, Vibrava, Flygon, Swablu, Altaria, Lunatone, Solrock, Baltoy, Claydol, Duskull, Tropius, Chimecho, Salamence, Latias, Latios, Staravia, Staraptor, Mothim, Combee, Vespiquen, Drifloon, Drifblim, Mismagius, Honchkrow, Chingling, Bronzor, Bronzong, Carnivine, Mantyke, Togekiss, Yanmega, Gliscor, Rotom, Uxie, Mesprit, Azelf, Cresselia, Tranquill, Unfezant, Woobat, Swoobat, Sigilyph, Archeops, SWanna, Emolga, Tynamo, Eelektrik, Eelektross, Cryogonal, Braviary, Mandibuzz, Hydreigon, Tornadus, Tornadus-T, Thundurus, Thundurus-T, Landorus, Landorus-T, Fletchinder, Talonflame, Vivillon, Noibat, Noivern<br/><br/>
+</td>
+</tr>
+</table>
+</div>

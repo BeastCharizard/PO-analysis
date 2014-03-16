@@ -1,0 +1,46 @@
+<head>
+<center>
+<font size="6">Sylveon</font></br>
+<img src=http://pokemon-online.eu/images/pokemon/x-y/700.png>
+</center>
+<font size = "5"><br/>General</font></br></br>
+<p>One of the earliest pokemon reveals of XY and possibly the flagship Fairy type, GameFreak started as they meant to go on by making Sylveon a potent defensive threat which can tank many hits and hit back hard and support its teammates. Its ability Pixilate is an utter godsend for a defensive pokemon, alongside its 110 Special Attack, allowing what would have been a reasonably hard hitting Moonblast to become a Hyper Voice that will generally 2 or 3 hit KO whatever is in front of it that isn't a Steel type. Which is to talk about its main weakness, the now quite ubiquitous Steel type pokemon in OU, almost all of which are able to switch in on it and beat it or threaten it out.<br><br>Sylveon is able to take on a huge amount of OU threats with relative ease in spite of its predictability and is almost always an asset to a team for its defensive and support capabilities.</p>
+<hr>
+<!-- Set 1 start -->
+<font size = "5"><br/>Defensive</font></br></br>
+<p>
+
+<b>Item</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Ability</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>EVs</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Nature</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</br>
+Leftovers&nbsp;&nbsp;&nbsp;&nbsp;
+Pixilate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+248 HP / 252 Def / 8 SDef&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Bold
+
+</br></br>
+<b>Moves</b></br>
+- Wish<br>- Protect<br>- Hyper Voice<br>- Heal Bell </br>
+</p></br>
+<p>Sylveon's best and (arguably) only set, here it takes advantage of its excellent pure Fairy typing, one which is more generally preferable for taking physical attacks, and naturally high special bulk to be able to wall many common powerful attackers while supporting its team with very respectably sized Wish passes and Heal Hell. Wish is the main way through which it recovers and Protect allows it to be guaranteed Wish recovery while also scouting opponents - very useful for pokemon which may pack coverage that can threaten Sylveon such as Genesect, Venusaur and Scizor. Hyper Voice is its main STAB move, which is a Fairy-type move thanks to the Pixilate ability, also granting it a 30% boost in power, or equivalent to holding a Life Orb. This allows Sylveon to have excellent power even when uninvested, granting it the ability to beat even bulky attackers such as Tyranitar, Conkeldurr and Dragonite. Heal Bell allows it to have less trouble with common status moves such as Will-o-Wisp and Toxic as well as supporting its team-mates who have also been statused.<br><br>Moonblast is an option over Hyper Voice if one is interested in the 30% chance to drop the opponent's special attack, although the significant drop in power is usually sorely missed. Shadow Ball is a decent coverage move sometimes used to at least hit incoming Steel types for neutral, especially Aegislash who is hit super effectively and can potentially be 2hkoed on the switch with some prediction. Shadow Ball would usually replace Heal Bell. Quick Attack is rarely used but has some interesting niche usage in finishing off some powerful attackers that could KO Sylveon without it, such as Pinsir and Garchomp. Again, this would most likely be used in place of Heal Bell. If using Quick Attack, Sylveon's nature should probably be Relaxed instead of Bold. Some Sylveon may use the move Baby-Doll Eyes to further boost its ability to take powerful physical hits thanks to the move's +1 priority.<br><br>Sylveon may sometimes run a Choice Specs set, which uses Hyper Voice or even Hyper Beam as its main STAB, both of which hit for nearly double power, and its decent coverage in moves such as Shadow Ball and Psyshock.<br><br>Sylveon can also take advantage of its bulk and power with a Calm Mind set, allowing it to set up on many common pokemon to hit very hard, but has extra trouble with status compared to other Sylveon.</p>
+<hr>
+<font size = "5"><br/>Synergy</font></br></br>
+<p>Teams up excellently with Steel types that lack recovery such as Heatran, Aegislash and Ferrothorn, especially Heatran whose ability to take on common threats that scare Sylveon out such as Scizor and Genesect. Can generally prove excellent support for tanky pokemon that will often need come in and out of play, such as Landorus-T, Tyranitar, Gyarados.</p>
+<!-- Set 1 end -->
+</br></br>
+<hr>
+<font size = "5"><br/>Other Options</font></br></br>
+
+<hr>
+<font size = "5"><br/>Checks and Counters</font></br></br>
+<button onclick="myFunction()">Export for Team</button>
+
+<script>
+function myFunction()
+{
+alert("Sylveon (M) @ Leftovers\nTrait: Pixilate\nEVs: 248 HP / 252 Def / 8 SDef\nBold Nature (+Def, -Atk)\n- Wish\n- Protect\n- Hyper Voice\n- Heal Bell");
+}
+</script>
+</body>

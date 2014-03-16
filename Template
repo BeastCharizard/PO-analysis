@@ -1,0 +1,46 @@
+<head>
+<center>
+<font size="6">Pokemon Name</font></br>
+<img src=url for pokemon image>
+</center>
+<font size = "5"><br/>General</font></br></br>
+<p></p>
+<hr>
+<!-- Set 1 start -->
+<font size = "5"><br/>Defensive</font></br></br>
+<p>
+
+<b>Item</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Ability</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>EVs</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Nature</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</br>
+Item&nbsp;&nbsp;&nbsp;&nbsp;
+Ability&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+EVs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Nature
+
+</br></br>
+<b>Moves</b></br>
+- <br>- <br>- <br>- </br>
+</p></br>
+<p></p>
+<hr>
+<font size = "5"><br/>Synergy</font></br></br>
+<p></p>
+<!-- Set 1 end -->
+</br></br>
+<hr>
+<font size = "5"><br/>Other Options</font></br></br>
+
+<hr>
+<font size = "5"><br/>Checks and Counters</font></br></br>
+<button onclick="myFunction()">Export for Team</button>
+
+<script>
+function myFunction()
+{
+alert("");
+}
+</script>
+</body>
